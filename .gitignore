@@ -1,0 +1,16 @@
+# Environnement et caches Python
+venv/
+__pycache__/
+*.pyc
+
+# Données (trop lourdes pour Git) et masques générés
+donnees/
+test/
+
+# Fichiers produits par un nouvel entraînement
+runs/last_checkpoint.pth
+runs/last_checkpoint.pth.tmp
+runs/tensorboard/
+
+# Divers
+.DS_Store
