@@ -294,6 +294,7 @@ font = "serif"
 ```bash
 streamlit run dashboard.py
 ```
+Le dashboard s'ouvre dans le navigateur à l'adresse `http://localhost:8501` (l'adresse exacte est affichée dans le terminal).
 
 ### Utilisation
 
